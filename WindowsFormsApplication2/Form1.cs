@@ -107,6 +107,10 @@ namespace WindowsFormsApplication2
             getStatusButton.Hide();
             exportStatusToolStripMenuItem.Enabled = true;
             ExportToExcelButton.Show();
+
+            //statul label: set number of post messages
+            statusLabel.Text = "Number of Post(s): " + posts.Count;
+            statusLabel.Visible = true;
         }
 
         public static void createTable(List<Post> postMessages, string path)
