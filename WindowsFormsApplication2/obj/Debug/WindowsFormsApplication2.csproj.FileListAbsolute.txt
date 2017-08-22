@@ -1,0 +1,41 @@
+c:\users\ecj4real.ecj4real-pc\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Facebook.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Facebook.xml
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Desktop\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Desktop\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Desktop\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Desktop\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Desktop\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Desktop\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\Facebook.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\itextsharp.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\Facebook.xml
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\ECJ4REAL.ECJ4REAL-PC\Documents\Visual Studio 2015\Projects\FacebookStatusReader-master-b6f223e15a2c4140149ae0a8dc97f2b7eda5e866\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SplashScreen.resources
