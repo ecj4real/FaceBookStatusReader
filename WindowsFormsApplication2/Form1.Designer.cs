@@ -59,13 +59,15 @@
             this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusLabel = new System.Windows.Forms.Label();
+            this.firstPostDateLabel = new System.Windows.Forms.Label();
+            this.lastPostDateLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.axAcroPDF1)).BeginInit();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // signInButton
             // 
-            this.signInButton.Location = new System.Drawing.Point(385, 434);
+            this.signInButton.Location = new System.Drawing.Point(365, 460);
             this.signInButton.Name = "signInButton";
             this.signInButton.Size = new System.Drawing.Size(75, 23);
             this.signInButton.TabIndex = 0;
@@ -84,7 +86,7 @@
             // 
             // getStatusButton
             // 
-            this.getStatusButton.Location = new System.Drawing.Point(466, 434);
+            this.getStatusButton.Location = new System.Drawing.Point(446, 460);
             this.getStatusButton.Name = "getStatusButton";
             this.getStatusButton.Size = new System.Drawing.Size(151, 23);
             this.getStatusButton.TabIndex = 1;
@@ -104,7 +106,7 @@
             // 
             // ExportToExcelButton
             // 
-            this.ExportToExcelButton.Location = new System.Drawing.Point(623, 434);
+            this.ExportToExcelButton.Location = new System.Drawing.Point(603, 460);
             this.ExportToExcelButton.Name = "ExportToExcelButton";
             this.ExportToExcelButton.Size = new System.Drawing.Size(156, 23);
             this.ExportToExcelButton.TabIndex = 3;
@@ -279,13 +281,35 @@
             // statusLabel
             // 
             this.statusLabel.AutoSize = true;
-            this.statusLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.statusLabel.Location = new System.Drawing.Point(12, 434);
+            this.statusLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.statusLabel.Location = new System.Drawing.Point(28, 429);
             this.statusLabel.Name = "statusLabel";
-            this.statusLabel.Size = new System.Drawing.Size(57, 24);
+            this.statusLabel.Size = new System.Drawing.Size(53, 20);
             this.statusLabel.TabIndex = 5;
             this.statusLabel.Text = "status";
             this.statusLabel.Visible = false;
+            // 
+            // firstPostDateLabel
+            // 
+            this.firstPostDateLabel.AutoSize = true;
+            this.firstPostDateLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.firstPostDateLabel.Location = new System.Drawing.Point(27, 453);
+            this.firstPostDateLabel.Name = "firstPostDateLabel";
+            this.firstPostDateLabel.Size = new System.Drawing.Size(66, 20);
+            this.firstPostDateLabel.TabIndex = 6;
+            this.firstPostDateLabel.Text = "firstpost";
+            this.firstPostDateLabel.Visible = false;
+            // 
+            // lastPostDateLabel
+            // 
+            this.lastPostDateLabel.AutoSize = true;
+            this.lastPostDateLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lastPostDateLabel.Location = new System.Drawing.Point(27, 477);
+            this.lastPostDateLabel.Name = "lastPostDateLabel";
+            this.lastPostDateLabel.Size = new System.Drawing.Size(65, 20);
+            this.lastPostDateLabel.TabIndex = 7;
+            this.lastPostDateLabel.Text = "lastpost";
+            this.lastPostDateLabel.Visible = false;
             // 
             // Form1
             // 
@@ -293,7 +317,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(906, 475);
+            this.ClientSize = new System.Drawing.Size(906, 517);
+            this.Controls.Add(this.lastPostDateLabel);
+            this.Controls.Add(this.firstPostDateLabel);
             this.Controls.Add(this.statusLabel);
             this.Controls.Add(this.ExportToExcelButton);
             this.Controls.Add(this.axAcroPDF1);
@@ -349,6 +375,8 @@
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator6;
         private System.Windows.Forms.ToolStripMenuItem aboutFaceBookStausReaderToolStripMenuItem;
         private System.Windows.Forms.Label statusLabel;
+        private System.Windows.Forms.Label firstPostDateLabel;
+        private System.Windows.Forms.Label lastPostDateLabel;
     }
 }
 

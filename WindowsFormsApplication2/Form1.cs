@@ -66,6 +66,7 @@ namespace WindowsFormsApplication2
 
         private void getStatusButton_Click(object sender, EventArgs e)
         {
+            getStatusButton.Enabled = false;
             FacebookClient fb = new FacebookClient(access_token);
             posts = new List<Post>();
 
@@ -108,9 +109,14 @@ namespace WindowsFormsApplication2
             exportStatusToolStripMenuItem.Enabled = true;
             ExportToExcelButton.Show();
 
-            //statul label: set number of post messages
-            statusLabel.Text = "Number of Post(s): " + posts.Count;
+            //statul: set number of post messages, first and last post date
+            int lengthOfPosts = posts.Count;
+            statusLabel.Text = "Number of Post(s): " + lengthOfPosts;
+            firstPostDateLabel.Text = "Date of First Post Made: " + posts[lengthOfPosts - 1].getDateCreated();
+            lastPostDateLabel.Text = "Date of Last Post Made: " + posts[0].getDateCreated();
             statusLabel.Visible = true;
+            firstPostDateLabel.Visible = true;
+            lastPostDateLabel.Visible = true;
         }
 
         public static void createTable(List<Post> postMessages, string path)
@@ -268,7 +274,7 @@ namespace WindowsFormsApplication2
 
         private void documentationToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Process.Start("http://www.google.com");
+            Process.Start("https://github.com/ecj4real/FaceBookStatusReader");
         }
     }
 
