@@ -1,4 +1,4 @@
-#FaceBook Status Reader
+# FaceBook Status Reader
 
 
 About
