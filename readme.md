@@ -1,10 +1,12 @@
-FaceBook Status Reader
---
+#FaceBook Status Reader
 
-# About
+
+About
+--
 This is a project that comsumes the FaceBook Graph API and displays the status messages of a FaceBook User
 
-# Project Roadmap
+Project Roadmap
+--
 1. Register as a FaceBook Developer
 2. Create an App as a FaceBook Developer
 3. Authenticate user from Window Form
@@ -13,7 +15,8 @@ This is a project that comsumes the FaceBook Graph API and displays the status m
 6. Read JSON object using iTextSharp.dll
 7. Export status messages using Microsoft.Interpol.Excel
 
-#  How to Use
+How to Use
+--
 1. Open Application
 2. Click the SignIn button / SignIn menu under the File menu
 3. Enter ur facebook login details and click login / press the Enter button 
